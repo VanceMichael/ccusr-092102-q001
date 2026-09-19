@@ -1,0 +1,12 @@
+{
+  "satellite_id": "PIESAT-2-13",
+  "station_id": "TY-GS-01",
+  "window_start": "2026-09-20T01:10:00+08:00",
+  "window_end": "2026-09-20T01:18:00+08:00",
+  "telemetry": {
+    "source_sequence": 17,
+    "spacecraft_time": "2026-09-20T01:09:58+08:00",
+    "received_at": "2026-09-20T01:10:03+08:00",
+    "quality": "verified"
+  }
+}
